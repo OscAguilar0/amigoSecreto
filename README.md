@@ -13,6 +13,7 @@
 
 
 <h1>Tecnologías Utilizadas:</h1>
-- `HTML`
-- `JavaScript`
-- `CSS`
+
+-`HTML`
+-`JavaScript`
+-`CSS`
