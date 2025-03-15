@@ -7,7 +7,7 @@
 
 - `Cantidad maxima de amigos`: Tiene un limite de amigos de 10 para que el juego no sea largo.
 - `Solo pulsar EENTER`: No es necesario presionar el botón para añadir un amigo al listado.
-- `Sorteo aleatorio`: Ae garantiza que no genere nombres repetidos.
+- `Sorteo aleatorio`: No genera nombres repetidos.
 - `No se puede repstir nombres`: Se garantiza que cada nombre agregado sea diferente.
 - `No se ingresan campos vacíos`: De esta manera se evita que el usuario pueda ingresar espacios vacíos al listado de nombres.
 
