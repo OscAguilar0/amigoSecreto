@@ -1,4 +1,4 @@
-<h1 align="center"> Chaallege Amigo Secreto </h1>
+<h1 align="center"> Challege Amigo Secreto </h1>
 
 <h1>Descripción:</h1>
 <p>En este código de amigo secreto se agregan nombres a un listado y te regresa de manera aleatoria uno de ellos.</p>
